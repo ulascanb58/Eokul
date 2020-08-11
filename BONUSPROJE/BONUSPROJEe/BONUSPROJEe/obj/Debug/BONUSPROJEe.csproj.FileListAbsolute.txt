@@ -1,0 +1,11 @@
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\bin\Debug\BONUSPROJEe.exe.config
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\bin\Debug\BONUSPROJEe.exe
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\bin\Debug\BONUSPROJEe.pdb
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\obj\Debug\BONUSPROJEe.csprojAssemblyReference.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\obj\Debug\BONUSPROJEe.Form1.resources
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\obj\Debug\BONUSPROJEe.Properties.Resources.resources
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\obj\Debug\BONUSPROJEe.csproj.GenerateResource.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\obj\Debug\BONUSPROJEe.csproj.CoreCompileInputs.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\obj\Debug\BONUSPROJEe.exe
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\obj\Debug\BONUSPROJEe.pdb
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\BONUSPROJE\BONUSPROJEe\BONUSPROJEe\obj\Debug\BONUSPROJEe.FrmOgrenciNotlar.resources
